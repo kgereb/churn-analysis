@@ -18,7 +18,7 @@ pip install requirements.text
 
 ## Final result
 
-![churn risk](https://github.com/kgereb/churn-analysis/blob/master/churn_risk.png
+![churn risk](https://github.com/kgereb/churn-analysis/blob/master/churn_risk.png)
 
 
 
