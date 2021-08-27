@@ -10,7 +10,7 @@ The dataset is from: https://www.kaggle.com/shrutimechlearn/churn-modelling
 
 The dataset will have to be downloaded in the `kaggle_datasets/Churn_Modelling.csv` folder. 
 
-## Python environment
+## Requirements
 
 A Python 3.7.4 virtual environment was created for this project. The corresponding packages can be found in the requirements.txt file.
 
