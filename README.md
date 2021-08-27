@@ -18,6 +18,8 @@ pip install requirements.text
 
 ## Final result
 
+The following pie chart represents the churn risk distribution amongst employees.
+
 ![churn risk](https://github.com/kgereb/churn-analysis/blob/master/churn_risk.png)
 
 
